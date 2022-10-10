@@ -4,7 +4,7 @@ An E-commerce platform for buying high quality Smart Home Appliances at extremel
 
 
 ## Live Link
-Hosted in Netlify -> [Smart Home](https://shome-shop.netlify.app/)
+Hosted in Netlify -> [Smart Home](https://smart-home-react1.netlify.app/)
 
 ## Context API
 
